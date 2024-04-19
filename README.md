@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
-  Blockchain | FullStack Engineer
+  Senior Blockchain | FullStack Engineer
 </h4>
 
 <!-- <p align="center">
@@ -14,7 +14,7 @@
     </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;9+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=00C2FF&vCenter=true&size=45%22"></img>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;BlockChain%20Developer;9+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=FFC200&vCenter=true&size=45%22"></img>
 </p>
 
 <h2>🥇 Specialised in:</h2>
