@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
-  Senior Blockchain | FullStack Engineer
+  Senior Software Engineer
 </h4>
 
 <!-- <p align="center">
